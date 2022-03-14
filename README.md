@@ -14,4 +14,4 @@
 7. To kill, close shell or enter **Zkill**
 
 ## Important
-Due to discord Tos, ***Every slefbot that abuse the api is bannable***. this tool has a macro detection bypass but nothing is actually safe, __use at your own risk__.
+Due to discord Tos, ***Every selfbot that abuse the api is bannable***. this tool has a macro detection bypass but nothing is actually safe, __use at your own risk__.
