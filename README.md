@@ -1,5 +1,6 @@
 <h1 align="center">🐸 Best dank memer farmer 2022 🐸 </h1>
-![Poster](poster.png)
+<img src="https://github.com/aminXD/Dank-Farm/blob/master/poster.png?raw=true">
+
 * fastest farmer in 2022
 * auto beg, fish, dig and hunt
 * macro detection bypass
